@@ -13,11 +13,11 @@ import (
 	_ "net/http/pprof"
 	"time"
 
-	"github.com/tomarus/chart"
-	"github.com/tomarus/chart/axis"
-	"github.com/tomarus/chart/data"
-	"github.com/tomarus/chart/examples/sysmon/mods"
-	"github.com/tomarus/chart/png"
+	"github.com/mayowa/chart"
+	"github.com/mayowa/chart/axis"
+	"github.com/mayowa/chart/data"
+	"github.com/mayowa/chart/examples/sysmon/mods"
+	"github.com/mayowa/chart/png"
 )
 
 const delay = 1 * time.Second

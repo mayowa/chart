@@ -1,7 +1,7 @@
 [![Build Status](https://api.travis-ci.org/tomarus/chart.svg)](https://travis-ci.org/tomarus/chart)
 [![Coverage Status](https://coveralls.io/repos/github/tomarus/chart/badge.svg?branch=master)](https://coveralls.io/github/tomarus/chart?branch=master)
-[![Go Report Card](https://goreportcard.com/badge/github.com/tomarus/chart)](https://goreportcard.com/report/github.com/tomarus/chart)
-[![GoDoc](https://godoc.org/github.com/tomarus/chart?status.svg)](https://godoc.org/github.com/tomarus/chart)
+[![Go Report Card](https://goreportcard.com/badge/github.com/mayowa/chart)](https://goreportcard.com/report/github.com/mayowa/chart)
+[![GoDoc](https://godoc.org/github.com/mayowa/chart?status.svg)](https://godoc.org/github.com/mayowa/chart)
 
 # Go Chart Lib
 
@@ -34,16 +34,16 @@ Screenshots from the example website:
 Example demo app:
 
 ```
-go get github.com/tomarus/chart 
-go run $GOPATH/src/github.com/tomarus/chart/examples/main.go
+go get github.com/mayowa/chart 
+go run $GOPATH/src/github.com/mayowa/chart/examples/main.go
 open http://localhost:3000
 ```
 
 Example /proc monitoring app (linux only):
 
 ```
-go get github.com/tomarus/chart
-go run $GOPATH/src/github.com/tomarus/chart/examples/sysmon/main.go
+go get github.com/mayowa/chart
+go run $GOPATH/src/github.com/mayowa/chart/examples/sysmon/main.go
 open http://localhost:3001
 ```
 
@@ -51,8 +51,8 @@ Code example:
 
 ```go
 import (
-    "github.com/tomarus/chart"
-    "github.com/tomarus/chart/svg"
+    "github.com/mayowa/chart"
+    "github.com/mayowa/chart/svg"
 )
 opts := &chart.Options{
     Title:  "Traffic",

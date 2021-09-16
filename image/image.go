@@ -3,8 +3,8 @@ package image
 import (
 	"io"
 
-	"github.com/tomarus/chart/data"
-	"github.com/tomarus/chart/palette"
+	"github.com/mayowa/chart/data"
+	"github.com/mayowa/chart/palette"
 )
 
 // TextRole is used to distinguish between fonts.

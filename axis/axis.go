@@ -4,8 +4,8 @@ import (
 	"math"
 	"time"
 
-	"github.com/tomarus/chart/format"
-	"github.com/tomarus/chart/image"
+	"github.com/mayowa/chart/format"
+	"github.com/mayowa/chart/image"
 )
 
 // Axis defines an axis (doh)

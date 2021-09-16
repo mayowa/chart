@@ -10,10 +10,10 @@ import (
 	"golang.org/x/image/font/gofont/gomono"
 	"golang.org/x/image/font/gofont/gosmallcapsitalic"
 
-	"github.com/tomarus/chart/data"
-	"github.com/tomarus/chart/format"
-	myimg "github.com/tomarus/chart/image"
-	"github.com/tomarus/chart/palette"
+	"github.com/mayowa/chart/data"
+	"github.com/mayowa/chart/format"
+	myimg "github.com/mayowa/chart/image"
+	"github.com/mayowa/chart/palette"
 )
 
 // PNG implements the chart interface to write PNG images.

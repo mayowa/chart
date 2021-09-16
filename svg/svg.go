@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/tomarus/chart/data"
-	"github.com/tomarus/chart/format"
-	"github.com/tomarus/chart/image"
-	"github.com/tomarus/chart/palette"
+	"github.com/mayowa/chart/data"
+	"github.com/mayowa/chart/format"
+	"github.com/mayowa/chart/image"
+	"github.com/mayowa/chart/palette"
 )
 
 // SVG implements the chart interface to write SVG images.

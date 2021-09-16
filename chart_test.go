@@ -8,11 +8,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/tomarus/chart/axis"
-	"github.com/tomarus/chart/data"
-	"github.com/tomarus/chart/image"
-	"github.com/tomarus/chart/png"
-	"github.com/tomarus/chart/svg"
+	"github.com/mayowa/chart/axis"
+	"github.com/mayowa/chart/data"
+	"github.com/mayowa/chart/image"
+	"github.com/mayowa/chart/png"
+	"github.com/mayowa/chart/svg"
 )
 
 func TestChart(t *testing.T) {

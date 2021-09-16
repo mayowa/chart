@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/tomarus/chart/colors"
+	"github.com/mayowa/chart/colors"
 )
 
 var axisColors = []string{"area", "color1", "color2", "color3"}
